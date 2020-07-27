@@ -1,0 +1,6 @@
+Login Credentials to enter to the system as an admin
+
+Admin Username - Admin
+Admin Password - Admin
+
+E1841349 - Rajawasam GN
